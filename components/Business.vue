@@ -6,7 +6,7 @@
   />
   <div>
     <div
-      class="mx-auto max-w-2xl px-4 py-4 sm:px-6 sm:py-6 lg:max-w-7xl lg:px-8 bg-[#F5F5F5] dark:bg-[#1e1e20]"
+      class="mx-auto max-w-2xl px-4 py-4 sm:px-6 sm:py-6 lg:max-w-7xl lg:px-8 bg-[#F5F5F5] dark:bg-[#1e1e20] min-h-[100vh]"
     >
       <div
         class="grid grid-cols-1 max-h-[100%] gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8 bg-[#F5F5F5] dark:bg-[#1e1e20]"
